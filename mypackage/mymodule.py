@@ -5,7 +5,7 @@ def greeting (name):
 
         '''
 
-    print('Hello '+ name +', how are you?')osi
+    print('Hello '+ name +', how are you?')
 
 
 def positive_message():
