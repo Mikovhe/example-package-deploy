@@ -6,4 +6,4 @@ This library was created as an example of how to publish your own Python package
 
 ## installing this package from github
 
-`pip install git +https://github`
+`pip install git +https://github.com/Mikovhe/example-package-deploy
